@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_mandiri</name>
+   <tag></tag>
+   <elementGuidId>b277dfa9-1192-4958-85de-edeff86651f8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@href='#/bank-transfer']/div[@class='list-next']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[@href='#/bank-transfer']/div[@class='list-next']</value>
+      <webElementGuid>ddbcd000-8b38-44d8-a6ff-32feb52f7941</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Frame/Iframe</value>
+      <webElementGuid>91bf3de5-2e04-4994-ba56-c9f12d9ad21a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

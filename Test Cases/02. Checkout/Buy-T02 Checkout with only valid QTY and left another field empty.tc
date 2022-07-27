@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Buy-T02 Checkout with only valid QTY and left another field empty</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>899c8be1-8104-4d76-8966-4b53909bb55c</testCaseGuid>
+</TestCaseEntity>

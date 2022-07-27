@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Payment-T45 transfer bank using PERMATA</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d44c5601-cc29-4cd1-a1ed-53574ff594c8</testCaseGuid>
+</TestCaseEntity>

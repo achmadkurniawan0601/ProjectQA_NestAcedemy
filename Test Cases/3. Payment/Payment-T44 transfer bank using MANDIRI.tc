@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Payment-T44 transfer bank using MANDIRI</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4049aa19-814c-44cd-adf8-f95bb1973758</testCaseGuid>
+</TestCaseEntity>

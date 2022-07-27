@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Payment-T43 transfer bank using BNI</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b1da755b-55a2-4db4-89c4-e2ad9ca7c888</testCaseGuid>
+</TestCaseEntity>

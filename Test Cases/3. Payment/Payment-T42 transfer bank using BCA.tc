@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Payment-T42 transfer bank using BCA</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f3243ad3-06e7-4b4b-99e4-fc88f2bb6492</testCaseGuid>
+</TestCaseEntity>

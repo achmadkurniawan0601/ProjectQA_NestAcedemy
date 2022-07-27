@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_oke</name>
+   <tag></tag>
+   <elementGuidId>e6861490-2c0f-407f-b382-695316b57839</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@name='ok']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//button[@name='ok']</value>
+      <webElementGuid>c841fb4e-e31d-4a2c-9270-6c19a4ffa82f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Frame/iframe2</value>
+      <webElementGuid>e201723a-76b2-43fa-8e68-47b47fd572f7</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Buy-T23 enter address field left empty</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d41b0c34-99e6-4b3e-b1be-d865ea43c875</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Payment-T46 enter card number using less than 6 char</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c8bb48c4-3d5d-42f7-b764-1badead7e707</testCaseGuid>
+</TestCaseEntity>

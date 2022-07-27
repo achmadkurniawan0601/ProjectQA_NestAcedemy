@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_amount</name>
+   <tag></tag>
+   <elementGuidId>a2bb6e77-cd57-4a9c-a653-72010d4ee405</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@class='text-right']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@class='text-right']</value>
+      <webElementGuid>660da084-fde0-4d1f-9697-17ac551ab502</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

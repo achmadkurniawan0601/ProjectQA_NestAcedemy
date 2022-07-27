@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_permata</name>
+   <tag></tag>
+   <elementGuidId>5c1b35cd-092b-4efe-8d82-cdfe6e19d467</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@href='#/bank-transfer/permata-va']/div[@class='payment-page-text']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[@href='#/bank-transfer/permata-va']/div[@class='payment-page-text']</value>
+      <webElementGuid>e75b779a-6a60-44b9-a1cc-fb62e537eb1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Frame/Iframe</value>
+      <webElementGuid>cb3715df-de3d-42b4-a330-7c773fe13619</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

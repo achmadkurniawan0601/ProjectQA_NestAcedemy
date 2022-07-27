@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_bca2</name>
+   <tag></tag>
+   <elementGuidId>2500ddcb-3893-4684-a52e-a196ebfba2f7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@href='#/bank-transfer/bca-va']/div[@class='payment-page-text']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[@href='#/bank-transfer/bca-va']/div[@class='payment-page-text']</value>
+      <webElementGuid>2f14383c-b485-4a43-a6f3-f771ca69489c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Frame/Iframe</value>
+      <webElementGuid>42c020d8-2a75-4f8c-b524-5c6a5d948bf4</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

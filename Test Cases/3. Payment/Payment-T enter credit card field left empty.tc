@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Payment-T enter credit card field left empty</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6c4dd249-a2df-47ea-a189-14c031e995a4</testCaseGuid>
+</TestCaseEntity>

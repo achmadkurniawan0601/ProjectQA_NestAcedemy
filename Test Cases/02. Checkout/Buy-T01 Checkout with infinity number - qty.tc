@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Buy-T01 Checkout with infinity number - qty</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>241ea5cb-8813-44b1-a728-c4f524544f2f</testCaseGuid>
+</TestCaseEntity>

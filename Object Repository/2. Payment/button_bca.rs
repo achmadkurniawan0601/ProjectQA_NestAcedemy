@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_bca</name>
+   <tag></tag>
+   <elementGuidId>a86dbf8f-596c-4688-932d-f75263d99339</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@href='#/bank-transfer']/div[@class='list-next']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[@href='#/bank-transfer']/div[@class='list-next']</value>
+      <webElementGuid>69c90e76-7e82-4a35-914b-40cb6f8a5660</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Frame/Iframe</value>
+      <webElementGuid>31004cb4-da4f-4e9c-8a12-9a908165d90f</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
